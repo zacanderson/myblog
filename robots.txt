@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plantsandcode.com/sitemap.xml
